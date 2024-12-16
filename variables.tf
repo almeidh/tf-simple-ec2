@@ -1,7 +1,3 @@
-variable "aws_profile" {
-  description = "profile"
-}
-
 variable "instance_name" {
   default = "tf-simple-instance"
 }
